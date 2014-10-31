@@ -1,0 +1,4 @@
+streamcoin
+==========
+
+Stream Coin tips
